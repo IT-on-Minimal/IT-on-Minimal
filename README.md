@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Denis Veremeenko! [ @IT-on-Minimal ]
+- 👋 Hi, My name is Denis! [ @IT-on-Minimal ]
 - 📚 I am currently studying at the STRADA course, as a Frontend Developer
 - 🎯 My goal is to enter the IT as a frontend developer in 2024
 - 💻 HTML, CSS, JavaScript, PhP, Node.js and Nest.
